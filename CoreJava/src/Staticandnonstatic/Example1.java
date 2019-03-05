@@ -1,5 +1,5 @@
 package Staticandnonstatic;
-
+// this is second commit
 public class Example1 {
 public int i = 90; // non static variable
 public static int j =80;
